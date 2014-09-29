@@ -63,4 +63,4 @@ I decide to tradeoff a few things in order to meet these needs.
 
 
 <hr/>
-<sub>Copyright (c) James Hancock 2014</sub>
+<sup>Copyright (c) James Hancock 2014</sup>
